@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with Apple Ecosystem.
 - 💬 Ask me about Python or any tech related stuffs.
-- 📫 How to reach me: visit - kylesinlynn.ml
+- 📫 How to reach me: <a href="https://kylesinlynn.ml">Click here!</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
 
