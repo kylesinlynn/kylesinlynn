@@ -44,4 +44,4 @@
 <!--
 ![Kyle Sin Lynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylesinlynn&show_icons=true&theme=tokyonight)
 -->
-![Kyle Sin Lynn's GitHub stats](https://github-profile-trophy.vercel.app/?username=kylesinlynn&no-bg=true&no-frame=true)
+![Kyle Sin Lynn's GitHub stats](https://github-profile-trophy.vercel.app/?username=kylesinlynn&no-frame=true&theme=tokyonight)
