@@ -30,10 +30,10 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/png/globe.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://twitter.com/kylesinlynn" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/@quevlu/line-icons-free@1.0.0/SVG/twitter-original.svg" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://linkedin.com/in/kylesinlynn-" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kylesinlynn@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/browser/browser.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://twitter.com/kylesinlynn" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/kylesinlynn-" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:kylesinlynn@gmail.com"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
