@@ -30,10 +30,10 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/browser/browser.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://twitter.com/kylesinlynn" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/twitter--v2.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://linkedin.com/in/kylesinlynn-" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kylesinlynn@gmail.com"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-browser-interface-kiranshastry-lineal-color-kiranshastry.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://twitter.com/kylesinlynn" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/kylesinlynn-" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:kylesinlynn@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
