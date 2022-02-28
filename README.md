@@ -7,5 +7,5 @@
 - 💬 Ask me about Python or any tech related stuffs.
 - 📫 How to reach me: visit - kylesinlynn.ml
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Ambivert and little talkative.
+- ⚡ Fun fact: I am a Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
  
