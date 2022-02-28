@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning PHP.
-- 📫 How to reach me: <a href="https://kylesinlynn.ml">Click here!</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
 
@@ -27,7 +26,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## ✉️ Find me on:
+## ✉ How to reach me::
 
 <p align="center">
  <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-browser-interface-kiranshastry-lineal-color-kiranshastry.png" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
