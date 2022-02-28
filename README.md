@@ -36,7 +36,7 @@
 </p>
 
 
-![Kyle Sin Lynn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Kyle Sin Lynn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylesinlynn&layout=compact&theme=tokyonight)
 
 <!--
 ![Kyle Sin Lynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylesinlynn&show_icons=true&theme=tokyonight)
