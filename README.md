@@ -1,44 +1,42 @@
-### Hola 👋
+## Hola 👋
 
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning PHP.
-- 👯 I’m looking to collaborate on Github.
-- 🤔 I’m looking for help with Apple Ecosystem.
-- 💬 Ask me about Python or any tech related stuffs.
 - 📫 How to reach me: <a href="https://kylesinlynn.ml">Click here!</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
 
-### frontend
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3&style=for-the-badge)
-![JS](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=for-the-badge)
+## 🧰 Languages and Tools:
 
-### backend
-![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-000?logo=Python&style=for-the-badge)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" alt="Composer" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+</p>
 
-### database
-![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL&style=for-the-badge)
+## ✉️ Find me on:
 
-### frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-000?logo=Laravel&style=for-the-badge)
+<p align="center">
+ <a href="https://kylesinlynn.ml/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/kylesinlynn-" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:kylesinlynn@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
-### system programming
-![C](https://img.shields.io/badge/-C-000?logo=C&style=for-the-badge)
-<!--
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)
--->
 
-### what i use
-![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&style=for-the-badge)
-![ShellScript](https://img.shields.io/badge/-ShellScript-000?logo=Shell&style=for-the-badge)
-![Composer](https://img.shields.io/badge/-Composer-000?logo=Composer&style=for-the-badge)
-![NPM](https://img.shields.io/badge/-NPM-000?logo=NPM&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-000?logo=Git&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub&style=for-the-badge)
- 
 ![Kyle Sin Lynn's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 <!--
