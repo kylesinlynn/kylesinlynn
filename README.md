@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning PHP.
 - 👯 I’m looking to collaborate on Github.
-- 🤔 I’m looking for help with Laravel Documentation.
+- 🤔 I’m looking for help with Apple Ecosystem.
 - 💬 Ask me about Python or any tech related stuffs.
 - 📫 How to reach me: visit - kylesinlynn.ml
 - 😄 Pronouns: He/His
