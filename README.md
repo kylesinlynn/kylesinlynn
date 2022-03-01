@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own project.
 - 🌱 I’m currently learning PHP.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
+- ⚡ Fun fact: I am Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
 
 ## 🧰 Languages and Tools:
 
