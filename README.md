@@ -1,7 +1,7 @@
 ## Hola 👋
 
 - 🔭 I’m currently working on my own project.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently doing Python.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am Ambivert and little talkative. You can find me on Social Media with @kylesinlynn.
 
