@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome ~ (＾ｖ＾) </h1>
 
-<p align="center">o_O ~ computer science, anime, and music ~ ((d[-_-]b))</p>
+<p align="center">o_O ~ computer science, anime, and music for a grug brained developer ~ ((d[-_-]b))</p>
 <p align="center">
   <strong><a href="https://x.com/kylesinlynn">𝕏</a></strong> |
   <strong><a href="https://instagram.com/kylesinlynn">Instagram</a></strong> |
